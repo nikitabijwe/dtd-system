@@ -1,0 +1,1 @@
+export const SIMULATE_SUCCESS = 'SIMULATE_SUCCESS'
